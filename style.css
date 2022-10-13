@@ -9,7 +9,9 @@ ul {
   }
   
   .main-image {
-    background: url("../task2/img/3792\ 1.jpg");
+    background: url("../task2/img/3792\ 1.svggit commit -m "commit message"
+
+");
     height: 650px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -42,7 +44,7 @@ ul {
   }
   
   .staff__avatar {
-      background: url('../task2/img/hacker.png');
+      background: url("../task2/img/avatar-svgrepo-com.svg");
       background-size: cover;
       width: 168px;
       height: 150px;
